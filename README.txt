@@ -1,3 +1,8 @@
+0. DEV BUILD NOTES
+Players 1 and 2 are defaulted to two different characters
+Player 1 has pre-set damage to easily showcase hitstun differences
+Player 2 back special is incomplete and can be used forever
+
 1. Game Controls
 
 Player One:
